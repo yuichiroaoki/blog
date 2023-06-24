@@ -6,7 +6,16 @@
     <description>Recent content on Jomon Period</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 09:56:34 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 19:06:51 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Sat, 24 Jun 2023 19:06:51 +0900</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>Let&amp;rsquo;s not buy into the system</description>
+    </item>
+    
     <item>
       <title>Zero-Sum Game</title>
       <link>/posts/zero-sum-game/</link>
