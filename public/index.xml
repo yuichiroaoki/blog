@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jomon Period</title>
+    <link>/</link>
+    <description>Recent content on Jomon Period</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 09:56:34 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero-Sum Game</title>
+      <link>/posts/zero-sum-game/</link>
+      <pubDate>Sat, 24 Jun 2023 09:56:34 +0900</pubDate>
+      
+      <guid>/posts/zero-sum-game/</guid>
+      <description>I&amp;rsquo;m just tired of doing MEV. It used to be fun, but not anymore. MEV is a zero-sum game, or perhaps a negative-sum game. After I realized that, I stopped talking about MEV on SNS. Sorry, but this is how it works and I hate to do it. Now, I don&amp;rsquo;t care about MEV anymore.
+MEV in 2020 MEV in 2023 When someone is making, someone is losing Here is an example where someone lost a lot of money(not sure how much) and a MEV bot made $939 in a single tx.</description>
+    </item>
+    
+  </channel>
+</rss>
