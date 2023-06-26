@@ -9,6 +9,8 @@ MEV is a zero-sum game, or perhaps a negative-sum game.
 After I realized that, I stopped talking about MEV on SNS. Sorry, but this is how it works and I hate to do it.
 Now, I don't care about MEV anymore.
 
+<!--more-->
+
 ### MEV in 2020
 ![MEV in 2020](https://www.tamagawa.ac.jp/SISETU/kyouken/jomon/katsuo.JPG)
 
@@ -44,6 +46,7 @@ If there are few MEV searchers on the market, there would be many opportunities 
 However, if there are many MEV searchers, there would be few opportunities and you have to be faster than others to make a profit.
 And the cost is getting higher and higher. The gas price will increase due to the congestion caused by the MEV txs. You might need more CPU cores, need to pay more gas fee to get your tx included faster, or even need to run more nodes.
 
+
 ## Future of MEV
 I sometimes hear some people saying that there are still a lot of opportunities on some less crowded and newly launched chains.
 But they're all gonna be the same. The more people join, the less profit you can make.
@@ -59,6 +62,7 @@ It's only gonna be like the conventional finance. It's more about who has more m
 I miss those days when people are doing MEV with a free alchemy API. It was just about programming skills.
 Of course, when threre is a huge market valatility, there will be a lot of opportunities and MEV bots make a lot regardless of the quality.
 But we won't see the Luna crash every month. I cannot rely on the market volatility to make a profit.
+
 
 ## How to make it to the positive-sum game?
 I don't know. Maybe during the bull trend, it could a positive-sum game, but it's not sustainable.

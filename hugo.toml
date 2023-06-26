@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://yuichiroaoki.github.io/blog/"
 title = 'Jomon Period'
 languageCode = "en-us"
 theme = "poison"
